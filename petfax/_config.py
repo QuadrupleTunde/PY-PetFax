@@ -1,0 +1,1 @@
+_connect_str = "postgresql://postgres:3419@localhost:5432/petfax"
